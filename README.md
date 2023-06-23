@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there! I am Yumiko Chow 🌱
 
-<!--
-**yumi520/yumi520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **100Devs coding bootcamp! I am also working on my own website for my artwork!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **CSS!**
+
+- 📫 How to reach me: **chow.y@northeastern.edu**
+
+- 😄 Pronouns: **she/her**
+
+- ⚡ Fun fact: I am part of the **L**gbtq+ community!
+
+- 🏳️‍🌈 Right now, I am looking forward to being part of Codepath's two beginner IOS and web development courses this fall 2023!
+
+
+
+<h3 align="center">Connect with me!</h3>
+<a href="https://twitter.com/ChowYumiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ChowYumiko" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yumiko-chow-463b0b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yumiko_chow" height="30" width="40" /></a>
+
+<h3 align="center">Languages and Tools:</h3>
