@@ -1,4 +1,4 @@
-### Hi there! I am Yumiko Chow 🌱
+<h1 align="center"> Hi there! I am Yumiko Chow 🌱 </h1>
 
 
 - 🔭 I’m currently working on **100Devs coding bootcamp! I am also working on my own website for my artwork!**
