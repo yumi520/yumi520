@@ -9,7 +9,7 @@
 
 - 😄 Pronouns: **she/her**
 
-- ⚡ Fun fact: I am part of the **L**gbtq+ community!
+- ⚡ Fun fact: I love cats!
 
 - 🏳️‍🌈 Right now, I am looking forward to being part of Codepath's two beginner IOS and web development courses this fall 2023!
 
