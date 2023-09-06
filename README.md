@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there! I am Yumiko Chow 🌱 </h1>
 
 
-- 🔭 I’m currently working on **100Devs coding bootcamp! I am also working on my own website for my artwork!**
+- 🔭 I’m currently **pursuing Computer Science and Design at Northeastern University!**
 
 - 🌱 I’m currently learning **Swift!**
 
