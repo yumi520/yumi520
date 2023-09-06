@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **100Devs coding bootcamp! I am also working on my own website for my artwork!**
 
-- 🌱 I’m currently learning **CSS!**
+- 🌱 I’m currently learning **Swift!**
 
 - 📫 How to reach me: **chow.y@northeastern.edu**
 
