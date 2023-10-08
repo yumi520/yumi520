@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **pursuing Computer Science and Design at Northeastern University!**
 
-- 🌱 I’m currently learning **Swift!**
+- 🌱 I’m currently learning **JavaScript!**
 
 - 📫 How to reach me: **chow.y@northeastern.edu**
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: I love cats!
 
-- 🏳️‍🌈 Right now, I am looking forward to being part of Codepath's two beginner IOS and web development courses this fall 2023!
+- 🏳️‍🌈 Right now, I am looking forward to learning JavaScript!
 
 
 <section align="center">
