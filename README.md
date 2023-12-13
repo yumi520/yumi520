@@ -3,15 +3,7 @@
 
 - 🔭 I’m currently **pursuing Computer Science and Design at Northeastern University!**
 
-- 🌱 I’m currently learning **JavaScript!**
-
 - 📫 How to reach me: **chow.y@northeastern.edu**
-
-- 😄 Pronouns: **she/her**
-
-- ⚡ Fun fact: I love cats!
-
-- 🏳️‍🌈 Right now, I am looking forward to learning JavaScript!
 
 
 <section align="center">
