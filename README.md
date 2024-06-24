@@ -4,5 +4,5 @@ I'm Yumiko (Yumi)! I'm a software engineer who is passionate about making open-s
 
 Find me around the web 🌎:
 - Learning in public on <a href="https://yumi520.github.io/">yumi520.github.io</a> 📹
-- Painting cute animals on <a href = "https://www.instagram.com/yumikochowart/">instagram</a> 🎨
+- Painting cute animals on <a href = "https://www.instagram.com/yumikochowart/">Instagram</a> 🎨
 - Sharing updates on <a href="https://www.linkedin.com/in/yumiko-chow/">LinkedIn</a> 💼
