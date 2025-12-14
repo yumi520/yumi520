@@ -8,6 +8,6 @@ Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/yumiko-chow/">LinkedIn</a>
 
 Featured Projects 📌:
-- <a href="https://www.hackbeanpot.com/">HackBeanpot</a> - hackathon website (Next.js, Typescript)
+- <a href="https://www.hackbeanpot.com/">HackBeanpot</a> - Hackathon Site (Next.js, Typescript)
 - <a href="https://github.com/Code-4-Community/proj-bhchp">Boston Health Care for the Homeless Program (BHCHP)</a> - Volunteer Recruitment Portal (Next.js, Typescript, PostgreSQL)
 
