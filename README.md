@@ -2,6 +2,9 @@
 
 I'm Yumiko (Yumi)! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 
+SWE experience:
+Full-stack, Infrastructure, Backend, Frontend, DevOps
+
 Find me around the web 🌎:
 - Learning in public on <a href="https://yumi520.github.io/">yumi520.github.io</a>
 - Painting cute animals on <a href = "https://www.instagram.com/yumikochowart/">Instagram</a>
